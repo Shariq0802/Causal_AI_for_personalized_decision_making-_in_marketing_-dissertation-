@@ -1,0 +1,15 @@
+# Large raw data files (see README for download link)
+*.csv
+*.csv.gz
+*.csv.zip
+*.gz
+*.zip
+
+# Local Python virtual environment
+causal_env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
