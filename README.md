@@ -2,6 +2,9 @@
 
 CS958 MSc dissertation project (University of Strathclyde), supervised by Vinod Kumar Chauhan.
 
+## Summary
+This project figures out which customers a marketing promotion actually works on, not just whether it works on average — filtering out the bias from naive comparisons. Tested on both synthetic and real (Criteo) data, it reliably tells apart customers who respond to a promotion from those who don't, so businesses can target spend at the people it will actually influence instead of promoting everyone.
+
 ## Purpose
 
 Marketing teams often want to know not just "does this promotion work on average?" but "who
